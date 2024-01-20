@@ -1,0 +1,32 @@
+Employees who have worked for 7 consecutive days:
+        Employee Name Position Status
+1     REsaXiaWE, XAis          Active
+2     REsaXiaWE, XAis          Active
+3     REsaXiaWE, XAis          Active
+4     REsaXiaWE, XAis          Active
+5     REsaXiaWE, XAis          Active
+...               ...             ...
+1478  WgAyeW, RayCEWd          Active
+1479  WgAyeW, RayCEWd          Active
+1480  WgAyeW, RayCEWd          Active
+1481  WgAyeW, RayCEWd          Active
+1482  WgAyeW, RayCEWd          Active
+
+[1459 rows x 2 columns]
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour:
+                        Employee Name Position Status
+38                    Sparks, KeWWeMh          Active
+39                    Sparks, KeWWeMh          Active
+1036  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1037  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1038  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1039  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1040  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1041  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1042  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+1043  DeXgadiXXE REdarMe, ChrisMiaW S          Active
+
+Employees who have worked for more than 14 hours in a single shift:
+                        Employee Name Position Status
+1036  DeXgadiXXE REdarMe, ChrisMiaW S          Active
